@@ -82,13 +82,13 @@ Run:
 bash
 python3 LFI-Destroyer.py
 # Select mode 3
-# Provide LFI details as usual
-# Script will:
-#   - Bruteforce phpinfo() (OS‑specific wordlist)
-#   - Parse upload_max_filesize and post_max_size
-#   - Execute the race condition attack (upload + LFI)
-#   - Confirm RCE
-#   - Offer reverse shell
+Provide LFI details as usual
+Script will:
+  - Bruteforce phpinfo() (OS‑specific wordlist)
+  - Parse upload_max_filesize and post_max_size
+  - Execute the race condition attack (upload + LFI)
+  - Confirm RCE
+  - Offer reverse shell
 Example output:
 
 text
@@ -114,10 +114,10 @@ Run:
 bash
 python3 LFI-Destroyer.py
 # Select mode 4
-# Enter path or 'brute'
-# Script will:
-#   - Attempt LFI inclusion with ?cmd=whoami
-#   - If successful, show output and offer reverse shell
+ Enter path or 'brute'
+ Script will:
+  - Attempt LFI inclusion with ?cmd=whoami
+  - If successful, show output and offer reverse shell
 Example:
 
 text
@@ -135,7 +135,7 @@ Run:
 bash
 python3 LFI-Destroyer.py
 # Select mode 5
-# Provide session ID or 'list' to enumerate
+ Provide session ID or 'list' to enumerate
 Examples:
 
 text
