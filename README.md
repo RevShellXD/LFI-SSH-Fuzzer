@@ -36,22 +36,13 @@ Select Linux or Windows.
 # 📂 Directory Structure
 
 LFI-Destroyer/
-├── LFI-Destroyer.py          
-# Main script (modes 1 & 2)
-├── modes/                    
-# External attack modules
-│   ├── __init__.py          
-# (empty)
-│   ├── mode3_phpinfo_race.py
+LFI-Destroyer.py          
 
-│   ├── mode4_upload_trigger.py
+modes/__init__.py ,mode3_phpinfo_race.py, mode4_upload_trigger.py, mode5_session_grabber.py           
 
-│   └── mode5_session_grabber.py
+artifacts/               
 
-├── artifacts/               
-# All downloaded credentials/files
-
-└── README.md
+README.md
 
 
 
