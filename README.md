@@ -1,4 +1,4 @@
-🔥 LFI-Destroyer – Authorized Penetration Testing Framework
+🔥 LFI-Destruction – Authorized Penetration Testing Framework
 LFI-Destroyer is a comprehensive, modular Local File Inclusion (LFI) exploitation framework designed for authorized security professionals. It combines multiple attack techniques into a single, easy‑to‑use tool:
 
 SSH & Browser Artifact Fuzzing – Hunt for SSH keys, Putty PPK, WinSCP, FileZilla, Firefox, Chrome, Edge, and Brave credentials on Linux & Windows.
