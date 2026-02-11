@@ -3,6 +3,7 @@
 LFI-Destruction v5.2 – Authorized Penetration Testing Tool
 Written By RevShellXD
 
+
 Modes:
   1) SSH / Browser Artifact Fuzzing (Linux/Windows) – OS‑specific wordlists
   2) Log Poisoning & Reverse Shell (Linux/Windows) – custom payload support
