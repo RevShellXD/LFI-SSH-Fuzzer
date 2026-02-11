@@ -189,6 +189,8 @@ Flag	Description
 --output FILE	Save results to JSON
 --dry-run	Test configuration – no requests sent
 --no-color	Disable colored output
+
+
 📂 Directory Structure
 text
 LFI-Destroyer/
